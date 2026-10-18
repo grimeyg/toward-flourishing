@@ -24,7 +24,6 @@ The full argument is in [the framework](framework.md). It rests on eight [axioms
 | [axioms.md](axioms.md) | The eight axioms it rests on, from causation to the hypothetical imperative, plus freedom as a matter of degree |
 | [axiom-revisions.md](axiom-revisions.md) | How each axiom has changed, and why |
 | [uses-of-good.md](uses-of-good.md) | The many uses of the word "good," and where moral judgment fits among them |
-| [ontology.md](ontology.md) | How things come to have functions, and why function supplies the standard |
 | [questions.md](questions.md) | Open questions first, then resolved ones with their answers |
 | [whos-who.md](whos-who.md) | Every person cited and what each contributes, starting with twelve |
 | [CHANGELOG.md](CHANGELOG.md) | A dated record of public updates |
