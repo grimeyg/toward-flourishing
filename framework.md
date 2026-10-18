@@ -66,7 +66,7 @@ Recurring terms in plain words, roughly in the order they appear. Each is develo
 Flourishing differs for everyone, but every human life faces five states: precarity, desire, meaning-making, friction with the outside world, and impermanence. By direction of fit, they split into two kinds.
 
 - **The world acting on us:** precarity, impermanence, friction with the outside world.
-- **The mind, in two directions of fit:** meaning-making's coherence strand fits the mind to the world, as a belief does (see Meaning-making). Desire fits the world to the mind; we change the world to match it.
+- **The mind, in two directions of fit:** meaning-making's coherence strand fits the mind to the world, as a belief does (see Meaning-making). Desire fits the world to the mind; we change the world to match it. Friction with the body or competing desires.
 
 All five are states, and all are caused. Two of them, desire and meaning-making, are states of mind, and they differ in **direction of fit**: what has to change when they don't match the world.
 
