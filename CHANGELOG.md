@@ -4,4 +4,4 @@ A dated record of public updates. For how and why the axioms changed, see [Axiom
 
 ## October 18, 2026
 
-First public version: the framework, the axioms and their revision history, the uses of "good," ontology, questions, and who's who.
+First public version: the framework, the axioms and their revision history, the uses of "good," questions, and who's who.
