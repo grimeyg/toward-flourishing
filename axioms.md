@@ -35,7 +35,7 @@ The moon orbits the Earth but also pulls on it, raising tides. So any God or unm
 
 **Channels have widths.** Where a channel back exists, what varies is how much it carries. A conversation is wide both ways: each side hears the other's words and can be changed by them. Other channels carry far less coming back than going out.
 
-**Broadcast is two-way but lopsided.** A news station speaks to millions in words, and viewers answer only in aggregate, through ratings, clicks, and ad money. The station responds, so the interaction is two-way, but the channel back carries a number, not a voice, and it rewards attention rather than fit (see How a meaning persists, on the main page). Viewers can also feel they know an anchor who doesn't know they exist, which Donald Horton and Richard Wohl called parasocial interaction (1956). It feels like a relation but never pushes back on the anchor, so it gives the self-story nothing to be tested against.
+**Broadcast is two-way but lopsided.** A news station speaks to millions in words, and viewers answer only in aggregate, through ratings, clicks, and ad money. The station responds, so the interaction is two-way, but the channel back carries a number, not a voice, and it rewards attention rather than fit (see How a meaning persists, on the main page). Viewers can also feel they know an anchor who doesn't know they exist, which Donald Horton and Richard Wohl called parasocial interaction (1956). It feels like a relation but never pushes back on the viewer, so it gives the viewer's self-story nothing to be tested against. The anchor is insulated the other way, hearing from the boss and the ratings but never from viewers as people.
 
 **Power widens the channel out and narrows the channel back.** Power is partly control over channels: the reach to broadcast, and the means to filter what comes back. Nothing forces the narrowing, but it tends to happen. Feedback is friction, and power is the means to avoid friction, through flatterers, press offices, and distance. Some studies find that even a brief feeling of power makes people worse at taking others' perspective (Adam Galinsky and colleagues, 2006). Insulated power drifts toward felt certainty: consistent only with itself, its self-story never tested. Lord Acton said power "tends to corrupt"; this is one way it does. Accountability rebuilds the channel back (see Power is a separate problem, on the main page).
 
@@ -57,7 +57,7 @@ Change and finitude constrain every decision. Windows for action close, reasonin
 
 **Simple rules give rise to complex behavior and structure, with regularities of their own at each level.**
 
-Conway's Game of Life produces complex patterns from four rules governing pixels. Reality climbs the same way: particles, atoms, molecules, chemistry, electrochemistry, biology, society, each level with its own behaviors. A quark is a richer pixel. It feels all four fundamental forces, comes in six flavors (up, down, charm, strange, top, bottom), and carries one of three color charges. It exists in 3D space and is only one type of matter. It is a massively richer "pixel" than in Conway's game and not even the only kind of pixel.
+Conway's Game of Life produces complex patterns from four rules governing pixels. Reality climbs the same way: particles, atoms, molecules, chemistry, electrochemistry, biology, society, each level with its own behaviors. A quark is a massively richer pixel. It feels all four fundamental forces, comes in six flavors (up, down, charm, strange, top, bottom), and carries one of three color charges. It exists in 3D space and is only one type of matter.
 
 Direction of thought: Conway's Life → a particle Game of Life → a 3D particle Game of Life.
 
@@ -83,7 +83,7 @@ Desires can conflict. An addict may want to use while also wanting not to want t
 
 **What this rules out.** This defeats ultimate responsibility, not Frankfurt's structural account, which already allows that we don't author our desires. Reflection still shapes later desires indirectly, since thoughts beget thoughts.
 
-**Control without authorship.** No one can summon a thought, but one can arrange the conditions that make it likelier. Someone who wants to be a drummer can sit in the studio, where drumming thoughts are more likely, though not guaranteed. A second-order desire, itself unbidden, gets its grip this way. An addict who wants not to use may find it easier to to so in a rehab facility, or if their environment changes in general.
+**Control without authorship.** No one can summon a thought, but one can arrange the conditions that make it likelier. Someone who wants to be a drummer can sit in the studio, where drumming thoughts are more likely, though not guaranteed. A second-order desire, itself unbidden, gets its grip this way. An addict who wants not to use may find it easier to do so in a rehab facility, or if their environment changes in general.
 
 ## Compression
 
@@ -105,7 +105,7 @@ One must be sympathetic to the Ancients. The stars really were the heavens to th
 
 **Survival doesn't make a meaning better.** A meaning that survives is not thereby better than one that died. Societies with rich meanings have vanished, and we will never know of them. Which meanings survive depends heavily on luck, power, and who kept records, much as Levi said survival in the Holocaust camps owed much to luck. Survival shows a meaning was carried forward, not that it was worth more. The resilience test compares ways of living across many shocks; it is not a verdict on the worth of any single meaning.
 
-**The uses of "good."** The word compresses many uses, each tied to a different end: something is good as a kind, at an activity, for someone, toward an end, by someone's standard. Every evaluative use is end-relative, and the bare verdict, as in "what a good man," hides its standard. End-relativity is the next axiom, the Hypothetical Imperative. Full analysis: The uses of "good"
+**The uses of "good."** The word compresses many uses, each tied to a different end: something is good at an activity, for someone, as a kind, with something it pairs with, to someone, or good as a bare verdict. Every evaluative use is end-relative, and the bare verdict, as in "what a good man," hides its standard. End-relativity is the next axiom, the Hypothetical Imperative. Full analysis: [The uses of "good"](uses-of-good.md)
 
 ## Hypothetical Imperative
 
@@ -114,6 +114,8 @@ One must be sympathetic to the Ancients. The stars really were the heavens to th
 A crack can be found in any "categorical" formulation. But some hypotheticals invoke near-universal responses, above all pointless suffering. The term names something one would always avoid if one could. What counts as suffering varies (torture, isolation, mutilation, a boring life, lack of autonomy), yet everyone has the capacity for it. 
 
 **Aversive, not avoided at any cost.** Suffering is aversive by definition, yet people rightly accept suffering for meaning. Suffering is also not failure to flourish. People can flourish while suffering, and fail to flourish without suffering.
+
+**No ultimate Good.** If all moral statements are hypothetical, "good" is always relative to some end or standard: good at, for, as, with, or to something. Even the bare verdict, "a good man," only hides its standard. There is no ultimate Good standing apart from ends. Others have already made the linguistic case. Wittgenstein's "Lecture on Ethics" separates the relative sense of good (a good pianist, a good road to town) from an absolute sense he thought could not be meaningfully stated. Peter Geach's "Good and Evil" argues "good" works like "big": it needs a noun to attach to, as in a good knife or a good person. The uses of "good" are summarized under Compression, just above, and mapped in full on [their own page](uses-of-good.md).
 
 ## Freedom as a matter of degree
 
