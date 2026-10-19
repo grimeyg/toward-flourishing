@@ -21,9 +21,9 @@ Ask of any thing or thought: why, what kind, how, where from. Each answer reveal
 
 Reasons can be mental or physical: thoughts beget thoughts, as a slap begets thoughts. Any consideration that contributes to an outcome counts, including habits, preferences, emotions, instincts, and reflexes.
 
-**Causes can shift odds.** Many causes raise or lower the odds of an outcome rather than fix it; philosophers call this probabilistic causation. Whether the odds come from complexity no one can compute (see Emergence) or from genuine chance, at our scale they look the same.
+**Causes can shift odds.** Many causes raise or lower the odds of an outcome rather than fix it; philosophers call this probabilistic causation. Whether the odds come from complexity no one can compute (see Emergence) or from genuine chance, at our scale they look the same. 
 
-**Chains can branch.** A random event starts a new branch mid-chain, so a chain doesn't always trace back to one origin.
+**Chains can branch.** A random event plausibly starts a new branch mid-chain, so a chain doesn't always trace back to one origin.
 
 ## Interaction
 
@@ -35,7 +35,7 @@ The moon orbits the Earth but also pulls on it, raising tides. So any God or unm
 
 **Channels have widths.** Where a channel back exists, what varies is how much it carries. A conversation is wide both ways: each side hears the other's words and can be changed by them. Other channels carry far less coming back than going out.
 
-**Broadcast is two-way but lopsided.** A news station speaks to millions in words, and viewers answer only in aggregate, through ratings, clicks, and ad money. The station responds, so the interaction is two-way, but the channel back carries a number, not a voice, and it rewards attention rather than fit (see How a meaning persists, on the main page). Viewers can also feel they know an anchor who doesn't know they exist, which Donald Horton and Richard Wohl called parasocial interaction (1956). It feels like a relation but never pushes back on the viewer, so it gives the self-story nothing to be tested against.
+**Broadcast is two-way but lopsided.** A news station speaks to millions in words, and viewers answer only in aggregate, through ratings, clicks, and ad money. The station responds, so the interaction is two-way, but the channel back carries a number, not a voice, and it rewards attention rather than fit (see How a meaning persists, on the main page). Viewers can also feel they know an anchor who doesn't know they exist, which Donald Horton and Richard Wohl called parasocial interaction (1956). It feels like a relation but never pushes back on the anchor, so it gives the self-story nothing to be tested against.
 
 **Power widens the channel out and narrows the channel back.** Power is partly control over channels: the reach to broadcast, and the means to filter what comes back. Nothing forces the narrowing, but it tends to happen. Feedback is friction, and power is the means to avoid friction, through flatterers, press offices, and distance. Some studies find that even a brief feeling of power makes people worse at taking others' perspective (Adam Galinsky and colleagues, 2006). Insulated power drifts toward felt certainty: consistent only with itself, its self-story never tested. Lord Acton said power "tends to corrupt"; this is one way it does. Accountability rebuilds the channel back (see Power is a separate problem, on the main page).
 
@@ -57,7 +57,7 @@ Change and finitude constrain every decision. Windows for action close, reasonin
 
 **Simple rules give rise to complex behavior and structure, with regularities of their own at each level.**
 
-Conway's Game of Life produces complex patterns from four rules governing pixels. Reality climbs the same way: particles, atoms, molecules, chemistry, electrochemistry, each level with its own behaviors. A quark is a richer pixel. It feels all four fundamental forces, comes in six flavors (up, down, charm, strange, top, bottom), and carries one of three color charges. It exists in 3D space and is only one type of matter.
+Conway's Game of Life produces complex patterns from four rules governing pixels. Reality climbs the same way: particles, atoms, molecules, chemistry, electrochemistry, biology, society, each level with its own behaviors. A quark is a richer pixel. It feels all four fundamental forces, comes in six flavors (up, down, charm, strange, top, bottom), and carries one of three color charges. It exists in 3D space and is only one type of matter. It is a massively richer "pixel" than in Conway's game and not even the only kind of pixel.
 
 Direction of thought: Conway's Life → a particle Game of Life → a 3D particle Game of Life.
 
@@ -67,7 +67,7 @@ Direction of thought: Conway's Life → a particle Game of Life → a 3D particl
 
 **Mind cannot exist, or be coherently conceived, without a physical structure beneath it.**
 
-Even a Boltzmann brain needs physical structure. Brain and body support each other. Their structure is largely, not completely, set by genes; gravity, natural selection, sexual preference, disease, and physical activity shape it too.
+Brain and body support each other. Their structure is largely, not completely, set by genes; gravity, natural selection, sexual preference, disease, and physical activity shape it too. Even a Boltzmann brain would need physical structure. 
 
 Mind is a higher level in Emergence's sense, so it inherits the limits of the structure beneath it. The body supports thought and limits it: no one can imagine seeing ultraviolet without the eyes for it. Moving a mind to silicon would change its limits, not erase them.
 
@@ -83,7 +83,7 @@ Desires can conflict. An addict may want to use while also wanting not to want t
 
 **What this rules out.** This defeats ultimate responsibility, not Frankfurt's structural account, which already allows that we don't author our desires. Reflection still shapes later desires indirectly, since thoughts beget thoughts.
 
-**Control without authorship.** No one can summon a thought, but one can arrange the conditions that make it likelier. Someone who wants to be a drummer can sit in the studio, where drumming thoughts are more likely, though not guaranteed. A second-order desire, itself unbidden, gets its grip this way.
+**Control without authorship.** No one can summon a thought, but one can arrange the conditions that make it likelier. Someone who wants to be a drummer can sit in the studio, where drumming thoughts are more likely, though not guaranteed. A second-order desire, itself unbidden, gets its grip this way. An addict who wants not to use may find it easier to to so in a rehab facility, or if their environment changes in general.
 
 ## Compression
 
@@ -95,7 +95,7 @@ One must be sympathetic to the Ancients. The stars really were the heavens to th
 
 **Time.** Change and finitude are real constraints; "time" is our compression of them. Related: Wittgenstein's family resemblance, Carnap's explication.
 
-**Meaning stays two-way.** Contact can run one way where there is no channel back (see Interaction), but meaning does not. Ideas and events from the past can be adopted, changed, expanded upon, or revised, whatever was intended. The meaning of a past event exists only as a compression in present minds, so present minds keep interacting with it.
+**Meaning stays two-way.** Contact can run one way where there is no channel back (see Interaction), but meaning does not. Ideas and events from the past can be adopted, changed, expanded upon, or revised past whatever their originators intended, though what they intended stays part of the fixed record. Jefferson wrote “all men are created equal” while holding slaves. Abolitionists and the civil rights movement adopted the line and expanded it far past what he meant by it. A poet does not necessarily have any intention in what they write. The meaning of a past event exists only as a compression in present minds, so present minds keep interacting with it.
 
 - **Danto:** many true descriptions of an event can't be known when it happens. "The Thirty Years' War began in 1618" couldn't have been said in 1618.
 - **Gadamer:** a text's meaning isn't settled by its author's intention; it develops through its history of interpretation.
@@ -103,7 +103,7 @@ One must be sympathetic to the Ancients. The stars really were the heavens to th
 
 **Facts are the floor under reinterpretation.** The facts of the past are fixed; their meaning is in play. The virtuous path revises meaning while staying faithful to the facts, as in the "redemption sequences" Dan McAdams found in life stories, where a painful event is retold as the start of something good. Felt certainty does the reverse, revising the facts to protect a meaning so the self was never wrong.
 
-**Survival doesn't make a meaning better.** A meaning that survives is not thereby better than one that died. Societies with rich meanings have vanished, and we will never know of them. Which meanings survive depends heavily on luck, power, and who kept records, much as Levi said survival in the camps owed much to luck. Survival shows a meaning was carried forward, not that it was worth more. The resilience test compares ways of living across many shocks; it is not a verdict on the worth of any single meaning.
+**Survival doesn't make a meaning better.** A meaning that survives is not thereby better than one that died. Societies with rich meanings have vanished, and we will never know of them. Which meanings survive depends heavily on luck, power, and who kept records, much as Levi said survival in the Holocaust camps owed much to luck. Survival shows a meaning was carried forward, not that it was worth more. The resilience test compares ways of living across many shocks; it is not a verdict on the worth of any single meaning.
 
 **The uses of "good."** The word compresses many uses, each tied to a different end: something is good as a kind, at an activity, for someone, toward an end, by someone's standard. Every evaluative use is end-relative, and the bare verdict, as in "what a good man," hides its standard. End-relativity is the next axiom, the Hypothetical Imperative. Full analysis: The uses of "good"
 
@@ -111,11 +111,9 @@ One must be sympathetic to the Ancients. The stars really were the heavens to th
 
 **All moral statements are hypothetical: they bind those who hold the relevant ends.**
 
-A crack can be found in any "categorical" formulation. But some hypotheticals invoke near-universal responses, above all pointless suffering. The term names something one would always avoid if one could. What counts as suffering varies (torture, isolation, mutilation, a boring life, lack of autonomy), yet everyone has the capacity for it.
+A crack can be found in any "categorical" formulation. But some hypotheticals invoke near-universal responses, above all pointless suffering. The term names something one would always avoid if one could. What counts as suffering varies (torture, isolation, mutilation, a boring life, lack of autonomy), yet everyone has the capacity for it. 
 
 **Aversive, not avoided at any cost.** Suffering is aversive by definition, yet people rightly accept suffering for meaning. Suffering is also not failure to flourish. People can flourish while suffering, and fail to flourish without suffering.
-
-**No ultimate Good.** If all moral statements are hypothetical, "good" is always good *for* or good *as* something; there is no ultimate Good standing apart from ends. Others have already made the linguistic case. Wittgenstein's "Lecture on Ethics" separates the relative sense of good (a good pianist, a good road to town) from an absolute sense he thought could not be meaningfully stated. Peter Geach's "Good and Evil" argues "good" works like "big": it needs a noun to attach to, as in a good knife or a good person. The uses of "good" are summarized under Compression, just above, and mapped in full on [their own page](uses-of-good.md).
 
 ## Freedom as a matter of degree
 
