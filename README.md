@@ -1,6 +1,13 @@
 # Toward a Definition of Flourishing
 
 A working framework for what it means to live well, for a person and for a society.
+By defining Justice as a "facilitation of flourishing" we can further argue how positive rights are necessary to facilitate a flourishing society, not just the negative rights many governments provide. The right to clean water, food, housing, and healthcare are all necessary to flourish. Flourishing is chosen as the end because it is never complete, and it's the measure by which we judge all activities we do. 
+
+Revenge and retribution are commonly viewed as a part of Justice, but even in these case we can see through the lens of flourishing. Often it feels like we can't move forward (flourish) unless the Injustice is addressed sufficiently. To the victim, violence and making the perpetrator feel what they felt or more, is often the goal. While it may feel like this is the only route forward to flourish, it is often not in reality. Restorative Justice is a way for the victim and perpetrator to understand what led to the event and understand the fallout of the event. Seeing the humanity in each other can ofter reduce the objectification the perpetrator initially saw in the victim, and dthe fear/trauma the victim feels. Breaking the cycle of violence is the goal. 
+
+There has to be a floor in society, things we don't allow, and also for ourselves individually lest we sink lower and lower in our character. That being said the framework only holds if one values character, consistency, logical argumentation, and harm reduction. All of those concepts are linked in reality so valuing one pretty much implies valuing the others. If someone wants to lean into illogical behavior they can but the framework wont really hold for them.
+
+I know GitHub isn't a traditional place to post written works, but I like how it tracks revision history and is open source. The axioms and uses of good page are probably better intros than the framework page. It's a lot of shorthand right now that I'll be cleaning up
 
 ![Every life meets five states; only one of three paths reaches flourishing](images/pyramid.png)
 
