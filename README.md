@@ -11,7 +11,7 @@ I know GitHub isn't a traditional place to post written works, but I like how it
 
 ![Every life meets five states; only one of three paths reaches flourishing](images/pyramid.png)
 
-**Status:** working draft, revised as it's tested, so expect it to change. Last updated October 18, 2026.
+**Status:** working draft, revised as it's tested, so expect it to change. Last updated October 30, 2026.
 
 ## The short version
 

@@ -1,6 +1,6 @@
 # Toward a Definition of Flourishing
 
-Greg Grimes · Last updated October 18, 2026
+Greg Grimes · Last updated October 30, 2026
 
 *Working draft, revised as it's tested, so expect it to change.* Changes to the axioms are logged in [Axiom revisions](axiom-revisions.md).
 
@@ -66,7 +66,7 @@ Recurring terms in plain words, roughly in the order they appear. Each is develo
 Flourishing differs for everyone, but every human life faces five states: precarity, desire, meaning-making, friction with the outside world, and impermanence. By direction of fit, they split into two kinds.
 
 - **The world acting on us:** precarity, impermanence, friction with the outside world.
-- **The mind, in two directions of fit:** meaning-making's coherence strand fits the mind to the world, as a belief does (see Meaning-making). Desire fits the world to the mind; we change the world to match it. Friction with the body or competing desires.
+- **The mind, in two directions of fit:** meaning-making's coherence strand fits the mind to the world, as a belief does (see Meaning-making). Desire fits the world to the mind; we change the world to match it.
 
 All five are states, and all are caused. Two of them, desire and meaning-making, are states of mind, and they differ in **direction of fit**: what has to change when they don't match the world.
 
@@ -337,6 +337,8 @@ The unit is the framework's own terms, capabilities and suffering, not lifespan 
 All three paths are psychological, and all face the same test. The virtuous path sits between two failures of consistency, like the virtue mean itself. Felt certainty is consistent only with oneself, never being wrong. Conformity is consistent only with others, following their desires without thinking it through. Only the virtuous path stays consistent with the world. It is called virtuous because staying on it takes virtue, not as a compliment.
 
 **The two failures trade places.** Felt certainty and conformity are opposite in whom they trust, oneself or the group, but alike in what they avoid: the world's check. So they slide into each other. With no one around to conform to, a person falls back on felt certainty; in company, the same person may conform; and a group's beliefs, once taken on, are often defended with felt certainty, as if they were one's own. Dan Kahan calls this identity-protective cognition: people credit and dismiss evidence in ways that protect their standing in the group they belong to. Only the virtuous path stays the same alone and in a crowd.
+
+**The paths are three ways of running one loop.** Everyone reflects on what they undergo and arranges their next moments (see the [causation diagram](axioms.md#causation) on Axioms). What differs is what the reflection is checked against. On the virtuous path, it is checked against the world: you seek out what might prove you wrong, and control grows because the world keeps correcting you. On felt certainty, it is checked against the self. Reflection still runs, often hard, but in defense, which psychologists call motivated reasoning (Ziva Kunda, 1990), and moments are arranged to keep disagreement out, called selective exposure. On conformity, it is checked against the group, which arranges your moments for you and turns reflection into "what would they think?" The machinery is the same each time; only its target changes.
 
 The virtuous path stands on the floor and uses the test to revise its method. Felt certainty has no floor, and conformity's floor is borrowed, holding only while the group does. Both can sink as low as necessary, to collapse or loss of self. Rock bottom may be a forced consistency: a certainty, the actual collapse of some structure, a failure. Afterwards, one goes back to the test. Shocks and change come from three sources: a changing external world, acquiring knowledge, or changing one's perspective.
 
